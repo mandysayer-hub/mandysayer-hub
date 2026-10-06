@@ -12,22 +12,97 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hello! ✌️</h1>
+### Hi, I'm Mandy 👋
 
-###
+**Animation & VFX • Creative AI • Python**
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](YOUR-LINKEDIN-URL)
 
-###
+</div>
 
-<p data-importer="text" align="left">I'm Mandy from London.<br><br>- 🔭 I’m working as an animator and an AI Engineer<br>- 📚 I'm currently learning AI Engineering<br>- ⚡ In my free time I like playing musical instruments, photography, and quality family time!!</p>
+---
 
-###
+## 👩🏻‍💻 About Me
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+I'm an experienced **Animation & VFX artist** with a background in feature film and visual effects, now exploring the intersection of **creative production and AI**.
 
-###
+I've spent much of my career working with artists, technical teams and production pipelines, including leading animation teams and developing workflows to solve creative and technical problems.
 
+More recently, I've been working with **neural animation and generative AI workflows**, while expanding my skills in **Python, AI engineering and LLM-based applications**.
+
+I'm particularly interested in building practical AI tools that solve real problems for artists and creative teams.
+
+---
+
+## 🧠 Featured Project
+
+### Neural Anim Shot Doctor
+
+An experimental AI-assisted diagnostic tool designed to help troubleshoot problems in **neural facial-animation workflows**.
+
+The project explores how production knowledge can be combined with LLM reasoning to identify likely pipeline problems and suggest practical troubleshooting steps.
+
+**What I'm exploring:**
+
+- Prompt chaining and structured AI workflows
+- LLM-assisted diagnostics
+- Production knowledge as AI context
+- Local and cloud language models
+- AI tools for artists and technical teams
+- Human-in-the-loop creative workflows
+
+**Built with:** Griptape • LLMs • Ollama • Prompt Engineering
+
+> 🚧 Currently in development
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Currently working with:** Griptape • Ollama • LLM workflows
+
+### Creative & VFX
+
+**Maya • Nuke • Unreal Engine • Photoshop • ShotGrid**
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuing to develop my skills in:
+
+- Python
+- AI Engineering
+- LLM application development
+- Generative AI
+- Local AI models
+- AI-assisted creative workflows
+
+---
+
+## 🔬 Other Projects
+
+### Iris Classifier
+
+A machine-learning project exploring classification using the Iris dataset.
+
+**Technologies:** Python • Machine Learning
+
+---
+
+## 🎯 What I'm Interested In
+
+I'm particularly interested in opportunities where **creative technology, AI and visual production** overlap — especially tools that make complex creative workflows easier for artists.
+
+Outside of work, I enjoy photography, playing musical instruments and spending time with my family.
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
