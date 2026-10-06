@@ -4,19 +4,11 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/mandymoksayer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 ### Hi, I'm Mandy 👋
 
 **Animation & VFX • Creative AI • Python**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](http://www.linkedin.com/in/mandymoksayer/)
 
 </div>
 
@@ -36,9 +28,9 @@ I'm particularly interested in building practical AI tools that solve real probl
 
 ## 🧠 Featured Project
 
-### Neural Anim Shot Doctor
+### In Progress
 
-An experimental AI-assisted diagnostic tool designed to help troubleshoot problems in **neural facial-animation workflows**.
+An experimental AI-assisted diagnostic tool designed to help troubleshoot problems.
 
 The project explores how production knowledge can be combined with LLM reasoning to identify likely pipeline problems and suggest practical troubleshooting steps.
 
